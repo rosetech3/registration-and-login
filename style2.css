@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(img/images\ \(10\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+
+.container {
+    background-color: #fff;
+    padding: 23px;
+    max-width: 500px;
+    box-shadow: 0 0 20px rgb(67, 67, 67);
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 3rem;
+    border-radius: 13px;
+}
+
+
+/* 
+.page {
+    background-image: url(img/images\ \(10\).jpg);
+} */
+
+.weth {
+    font-size: 3rem;
+    color: cornflowerblue;
+    padding: 5px;
+}
+
+#option {
+    font-size: 15px;
+    width: 27.2vw;
+    padding: 14px;
+}
+
+form {
+    display: block;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+form input {
+    font-size: 15px;
+    width: 25vw;
+    padding: 14px;
+    text-align: justify;
+    border-radius: 3px;
+}
+
+form .radio {
+    display: flex;
+    text-align: left;
+}
+
+.btn {
+    width: 28vw;
+    padding: 17px;
+    text-align: center;
+    background-color: cornflowerblue;
+    color: #fff;
+    font-size: 1.3em;
+    border: none;
+    border-radius: 5px;
+}
